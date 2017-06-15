@@ -7,7 +7,7 @@ package proyectopruebascilindro;
 
 /**
  *
- * @author ape
+ * @author Fernando Gómez Souto
  */
 public class ProyectoPruebasCilindro {
 
